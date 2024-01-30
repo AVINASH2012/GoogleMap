@@ -1,3 +1,3 @@
-# GoogleMap
+# MapDashboard
 
-Add all information required to get started with @splunk/google-map here.
+Add all information required to get started with @splunk/map-dashboard here.
